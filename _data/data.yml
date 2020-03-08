@@ -7,19 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Aaron Jones
+    tagline: Web Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: ajones061392@yahoo.com
+    phone: 559 761 2046
+    website:  jportfolio.tk/
+    linkedin: linkedin.com/in/aaron-jones-4739bb85
+    github: bigboss424
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@heeroyuy424'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -28,20 +28,20 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
       - idiom: Spanish
+        level: Intermediate
+
+      - idiom: Java
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Programming
         link:
 
-      - item: Snowboarding
+      - item: Music
         link:
 
-      - item: Cooking
+      - item:
         link:
 
 career-profile:
@@ -83,7 +83,7 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
+    - role: Developer
       time: 2015 - Present
       company: Startup Hubs, San Francisco
       details: |
@@ -100,8 +100,8 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
+    - role: Lead Developer
+      time: 2018 - Present
       company: Google, London
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
