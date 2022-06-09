@@ -85,48 +85,40 @@ education:
           - Bullet point
 
 experiences:
-    - role: Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Owner
+      time: 2017 - Present
+      company: Cogs Web Development and Hosting, South El Monte
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        I run a web hosting and development company. Providing services to build,
+        maintain and host websites and web apps for small and medium sized businesses.
+        Helping these businesses with their online presence and marketing to ensure that
+        traffic and customers are driven to their business.
 
-          - Bullet point
-          - Bullet point
+          - Provide Web Development and Hosting Services to Customers.
+          - Work with clients to establish web marketing and online presence.
 
-    - role: Lead Developer
-      time: 2018 - Present
-      company: Google, London
+    - role: Web Developer
+      time: 2015 - 2016
+      company: Equity Publishing, Remote
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Rebuilt the companies website using the Yui Framework and Bootstrap to
+        deliver a stellar website with no need to use a CMS such as WordPress or
+        Joomla to develop the website.
 
-          - Bullet point
-          - Bullet point
+          - Removed the need for a CMS from the client's site.
+          - Built a website that met the expectations of the client.
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Junior System Administrator
+      time: 2010 - 2011
+      company: Walla Walla Univesity Computer Science Department, Walla Walla
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Managed and Maintained the Computer Science Department's Computer Lab. Learned
+        how to maintain and manage various Linux servers and how to utilize them for the
+        Computer Science Department's Computer Lab. Worked with the Computer Science Department
+        Chair with numerous projects and tasks.
 
-          - Bullet point
-          - Bullet point
+          - Learned to manage Linux Servers
+          - Learned to manage an entire Computer Lab
 
 projects:
     title: Projects
@@ -136,45 +128,46 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Equity Publishing
+        link: "https://bigboss424.github.io/eqpublishing/"
+        tagline: "My first client work for a business client, Equity Publishing. Though the business
+        may no longer exist, I still host the site."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: North Idaho Star
+        link: "https://bigboss424.github.io/northstaridaho/"
+        tagline: "A website design for Equity Publishing to have their magazine, North Idaho Star, digitized using Turn.js to mimic the page turn."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Amazing Truth Bible School
+        link: "https://amazingtruthbibleschool.com/"
+        tagline: "A website built for the purpose of spreading the Word of God, through Bible Seminarsand Testimonies, utilizing WordPress."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: My Resume
+        link: "https://bigboss424.github.io/jones-resume/"
+        tagline: "A simple website I built to display my resume online, as well as the means to download a copy of my resume on the site."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        # - title:
+        # link: "#"
+        # tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+        #publications:
+        #    title: Publications
+        #    intro: |
+        #      You can list your publications in this section. Lorem ipsum dolor sit
+        #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+        #      bibendum fringilla a eu lectus.
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        #    papers:
+        #      - title: The Art of Computer Programming
+        #        authors: Donald E. Knuth
+        #        conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        #      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        #        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        #        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        #      - title: A syntax directed compiler for Algol 60
+        #        authors: Edgar T. Irons
+        #        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
