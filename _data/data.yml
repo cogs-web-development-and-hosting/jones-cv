@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: ajones061392@yahoo.com
-    phone: 559 761 2046
+    phone: 626 501 5023
     website:  jportfolio.tk/
     linkedin: linkedin.com/in/aaron-jones-4739bb85
     github: bigboss424
@@ -41,43 +41,45 @@ sidebar:
       - item: Music
         link:
 
-      - item:
+      - item: Gardening
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Learning to create and develop websites by implementing and utilizing various
+      solutions until I come across one that works for my purpose. I am a college student,
+      business owner, entrepreneur, and programmer. I can also do some very basic graphic
+      design and am proficient in various office suites. I am currently working for myself
+      as owner of Cogs Web Development and Hosting. I do various projects to keep my mind
+      sharp and relevant.
 
-      Second paragraph if required.
+      I am constantly looking for new ways to innovate and create better software, web applications,
+      and websites. I utilize various techniques to help me provide my clients and future clients
+      with a experience that they can be proud of. I also can handle basic internet marketing needs,
+      and SEO Optimization.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BSc in Computer Science
+      university: Western Governors University
+      time: 2019 - Present
+      details: |
+        I am completing my Computer Science degree at this University. I am currently
+        studying a wide variety of new techniques in software development, while brushing
+        up on my mathematics to better analyze my programs structure and flow.
+
+          - Learning how to utilize the Big O Notation to create more efficient programs.
+          - Learning how IT infrastructure concides with the development process.
+
+    - degree: BSc in Computer Science
+      university: California State University, Los Angeles
+      time: 2017 - 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        pretium quis, se
 
           - Bullet point
           - Bullet point
